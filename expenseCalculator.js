@@ -1,8 +1,8 @@
         /************************************************************************************************ 
           Course:  Web Application Development
           Assignment:  Lesson 4 (JavaScript 1)
-          Author:  
-          Date:   
+          Author: Kyle McWilliams  
+          Date: 2 / 15 / 18
           Filename: expenseCalculator.js
         *************************************************************************************************/
      

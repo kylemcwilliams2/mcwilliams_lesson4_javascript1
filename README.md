@@ -7,19 +7,19 @@ Web Application Development
 (Month Day, Year)
 
 ### Student Name:  
-(First and Last Name)
+Kyle McWilliams
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning to use the basic components of Javascript
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://kylemcwilliams2.github.io/mcwilliams_lesson4_javascript1/ 
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to locate and use code to make the webpage do what you want. 
+2. How to use data conversion on our webpages
+3. Adding components of Javascript to our code and webpage. 
 
 
 
